@@ -23,7 +23,7 @@
 <h3>Languages and tools</h3>
 <table cellspacing="0" cellpadding="0" style="border: none; width: 100%">
   <tr>
-    <td>Web development</td>
+    <td>Web Development</td>
     <td>
       <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -89,6 +89,8 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUT888&layout=compact" alt="Most used languages">
 </div>
 
+<!-- 
 <div style="text-align:center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TUT888&" alt="GitHub Streak">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TUT888" alt="GitHub Streak"> 
+-->
 </div>
