@@ -4,8 +4,7 @@
 </h1>
 
 <div id="header" align="center">
-  <h3>Welcome to my profile</h3>
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300"/>
   
   <div id="badges" >
     <a href="https://www.linkedin.com/in/alice-tat/">
@@ -22,7 +21,7 @@
 - :computer: Gained hands-on experience in **Artificial Intelligence and Machine Learning** during my Bachelor's degree and through an AI Engineer internship at TMA Solutions (Vietnam).
 
 <h3>Languages and tools</h3>
-<table cellspacing="0" cellpadding="0" style="border: none;">
+<table cellspacing="0" cellpadding="0" style="border: none; width: 100%">
   <tr>
     <td>Web development</td>
     <td>
@@ -38,7 +37,7 @@
       <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jQuery" alt="jQuery" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/materializecss/materializecss-original-wordmark.svg" title="MaterializeCSS" alt="MaterializeCSS" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/materializecss/materializecss-original.svg" title="MaterializeCSS" alt="MaterializeCSS" width="40" height="40"/>
       </div>
     </td>
   </tr>
@@ -55,7 +54,7 @@
       </div>
       <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="PyTorch" **alt="PyTorch" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original-wordmark.svg" title="ScikitLearn" **alt="ScikitLearn" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="ScikitLearn" **alt="ScikitLearn" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="Tensorflow" **alt="Tensorflow" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original-wordmark.svg" title="Keras" **alt="Keras" width="40" height="40"/>
       </div>
@@ -73,7 +72,7 @@
   </tr>
 
   <tr>
-    <td>Other tools</td>
+    <td>Other</td>
     <td>
       <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
@@ -84,7 +83,7 @@
 </table>
 
 
-<h3>GitHub contribution</h3>
+<h3>GitHub insight</h3>
 
 <div style="text-align:center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUT888&layout=compact" alt="Most used languages">
