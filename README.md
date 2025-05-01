@@ -4,7 +4,8 @@
 </h1>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/Ws9ksgMH6nbGemB3Yh/giphy.gif" width="300"/>
+  
   
   <div id="badges" >
     <a href="https://www.linkedin.com/in/alice-tat/">
