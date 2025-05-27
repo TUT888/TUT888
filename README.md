@@ -10,7 +10,7 @@
 <h3>About me</h3>
 <p>Hello! I'm currently a Master's student at Deakin University, passionate about software development and continuously enhancing my skills and knowledge in the field.</p>
 
-- :dart: Aspiring **full-stack software developer** with a passion for creating innovative and optimal software solutions.
+- :dart: Aspiring **software developer** with a passion for creating innovative and optimal software solutions.
 - :seedling: Currently learning **backend development** with Java, and refining skills in modern **software engineering practices**.
 - :computer: Gained hands-on experience in **Artificial Intelligence and Machine Learning** during my Bachelor's degree and through an AI Engineer internship at TMA Solutions (Vietnam).
 
