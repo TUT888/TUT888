@@ -3,9 +3,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<div id="header" align="center">
+<!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/Ws9ksgMH6nbGemB3Yh/giphy.gif" width="300"/>
-</div>
+</div> -->
 
 <h3>About me</h3>
 <p>Hello! I'm currently a Master's student at Deakin University, passionate about software development and continuously enhancing my skills and knowledge in the field.</p>
