@@ -90,6 +90,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=TUT888&show_icons=true&locale=en" alt="GitHub Stats" />
 </div>
 
-<div style="text-align:center">
+<!-- <div style="text-align:center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUT888&layout=compact" alt="Most used languages">
-</div>
+</div> -->
