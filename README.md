@@ -18,7 +18,7 @@
 
 <div style="text-align:center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TUT888" alt="GitHub Streak"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TUT888&show_icons=true&locale=en" alt="GitHub Stats" />
+  <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=TUT888&show_icons=true&locale=en" alt="GitHub Stats" /> -->
 </div>
 
 <!-- <div style="text-align:center">
