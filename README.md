@@ -16,10 +16,9 @@
 
 <h3>GitHub insight</h3>
 
-<div style="text-align:center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TUT888" alt="GitHub Streak"> 
-  <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=TUT888&show_icons=true&locale=en" alt="GitHub Stats" /> -->
-</div>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TUT888" alt="GitHub Streak"> 
+
+![Stats](./profile/stats.svg)
 
 <!-- <div style="text-align:center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUT888&layout=compact" alt="Most used languages">
